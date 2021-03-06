@@ -8,7 +8,7 @@
 <body>
   <hr width="1000" size="20" color="black">
   <font face="Times New Roman" color="blue" size="8" >
-    <b><i>                        DAKSH GUPTA </i></b></font> </hr>
+    <b><i>                        DAKSH GUPTA </i></b></font>
    
 <img src="https://github.com/dakshgupta2002/PORTFOLIO/blob/gh-pages/WhatsApp%20Image%202021-03-03%20at%2010.25.48%20AM.jpeg" border="5" bordercolor="blue" height="300" width="300" alt="DAKSH GUPTA"> 
  
@@ -28,7 +28,7 @@ in every aspect of life!</pre> </font>
 <li>hobbies and passion</li>
 <li>qualification</li>
 <li>aspirations</li> </font>
-<hr color="black"></hr>
+<hr color="black">
 
 <pre>
 
@@ -73,7 +73,7 @@ in every aspect of life!</pre> </font>
 
 
  </pre>
-      <hr color="black"></hr>
+      <hr color="black">
 <h1 color="blue">FOLLOW ME ON SOCIAL MEDIA:</h1>
       <div class="container">
         <p></p>
@@ -84,8 +84,7 @@ in every aspect of life!</pre> </font>
 
         <hr class="hr-text" data-content="OR">
         <p><a href="https://www.codechef.com/users/daksh_g123"><h2 color="green">Codechef ID</h2></a></p>
-      </div>
-    </hr> </hr> </hr>
+        </div>
 
     <textarea rows="3" cols="40">
       Please leave a feedback if you liked the Portfolio :)
